@@ -20,7 +20,7 @@ namespace Course.Models
             Code = code.Trim();     
             Name = name.Trim();
         }
-
+        
         // Ensures that the course is always created with valid data
         private void Validate(string code, string name)
         {
@@ -32,3 +32,4 @@ namespace Course.Models
         }
     }
 }
+
