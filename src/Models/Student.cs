@@ -26,3 +26,4 @@ namespace UgaritGradebook.Models
         }
     }
 }
+/// <summary> ويمثل هذا النموذج بيانات الطالب في نظام أوغاريت </summary>
